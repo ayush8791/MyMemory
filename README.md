@@ -1,5 +1,7 @@
 # MyMemory – Financial Ledger module (v0.1)
 
+[![CI](https://github.com/ayush8791/MyMemory/actions/workflows/ci.yml/badge.svg)](https://github.com/ayush8791/MyMemory/actions/workflows/ci.yml)
+
 Android app (Kotlin, Jetpack Compose). Reads bank SMS and Gmail receipts, understands them with
 **Gemma running on the phone**, removes duplicates, categorises everything, and tracks money lent to or
 borrowed from people. Nothing leaves the device.
